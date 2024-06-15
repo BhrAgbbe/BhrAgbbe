@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on calculator with js<br>👯 I’m looking to collaborate on learning <br>🌱 I’m currently learning front-end<br>⚡ Fun fact -I'm sleepy guy 
+🔭 I’m currently working on calculator with js<br>👯 I’m looking to collaborate on learning <br>🌱 I’m currently learning front-end<br>
 
 
 ## 🌐 Socials:
