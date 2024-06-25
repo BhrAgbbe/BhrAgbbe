@@ -24,3 +24,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdiyeh83&show_icons=true&locale=en" alt="mahdiyeh83" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiyeh83&" alt="mahdiyeh83" /></p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mahdiyeh83&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahdiyeh83&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiyeh83&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mahdiyeh83&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mahdiyeh83&icon=0&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
