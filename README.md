@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm mahdiye aghababayi</h1>
+<h1 align="center">Hi 👋, I'm aghababayi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <img align="right" alt="coding"width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsdbskwW_uKrPS8ct9Y1AVBCW0B-lJimV1xA&s">
 
 
-- 🔭 I’m currently working on **mysql projct**
+- 🔭 I’m currently working on **js**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **react**
 
 - 📫 How to reach me **aghababayimahdiye@gmail.com**
 
