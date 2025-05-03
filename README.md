@@ -3,7 +3,6 @@
 <img align="right" alt="coding"width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsdbskwW_uKrPS8ct9Y1AVBCW0B-lJimV1xA&s">
 
 
-- 🔭 I’m currently working on **js**
 
 - 🌱 I’m currently learning **react**
 
