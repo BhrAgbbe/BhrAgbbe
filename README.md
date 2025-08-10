@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhr</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<img align="right" alt="coding"width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsdbskwW_uKrPS8ct9Y1AVBCW0B-lJimV1xA&s">
+<img align="right" alt="coding"width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsdbskwW_uKrPS8ct9Y1AVBCW0B-lJimV1xA&s](https://img.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_1249867-5452.jpg?semt=ais_hybrid&w=740)">
 
 
 
@@ -8,13 +8,9 @@
 
 - 📫 How to reach me **aghababayimahdiye@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahdiye-aghababayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdiye-aghababayi" height="30" width="40" /></a>
-<a href="https://instagram.com/bahar13833_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bahar13833_a" height="30" width="40" /></a>
-</p>
 
-## 🌐 Socials:
+
+## 🌐 Socials to connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahdiye-aghababayi-b51625309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@mahdiye-Aghababayi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aghababayimahdiye@gmail.com) 
 
 # 💻 Tech Stack:
