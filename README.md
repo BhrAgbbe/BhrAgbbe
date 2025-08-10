@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhr</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<img align="right" alt="coding"width="400" src="https://www.vecteezy.com/png/44428120-business-woman-illustration-on-transparent-background">business-woman-illustration-on-transparent-background PNGs by Vecteezy">
 
 
 - 🌱 I’m currently learning **Next.js**
